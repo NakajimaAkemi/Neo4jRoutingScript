@@ -5,3 +5,6 @@ If you can't connect to the Neo4j DBMS editing the configuration file may be nee
 
 Link to routingpy documentation:
 https://routingpy.readthedocs.io/en/latest/#module-routingpy.routers
+
+
+These scripts are fairly similar with each other, with slight differences.
