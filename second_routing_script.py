@@ -9,7 +9,7 @@ password="tesinatesina"
 
 # Define the clients and their profile parameter
 apis = (
-   (Graphhopper(api_key='77ae00f6-ff40-40c3-a039-e1b2bfaef4c8'), 'foot'),
+   (Graphhopper(api_key='YOUR-API-KEY'), 'foot'),
    (Valhalla(),'pedestrian'),
    (OSRM(),'foot'),
 )
